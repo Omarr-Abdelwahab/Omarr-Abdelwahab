@@ -1,6 +1,6 @@
 👋 Omar Abdelwahab
 
-Software Engineering Student | Full-Stack Developer
+Software Engineering Student @GUC | Full-Stack Developer
 
 Full-stack developer focused on building backend-driven web applications with clean architecture, scalability, and practical system design. I build products through iteration, debugging, and continuous improvement.
 

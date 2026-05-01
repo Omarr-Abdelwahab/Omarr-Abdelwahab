@@ -14,21 +14,21 @@ Tools: Git, GitHub, Vercel
 
 🚀 Projects
 
-TEDxGUC Hub
+*TEDxGUC Hub*
 https://tedxguc-hub.vercel.app
 
 Production-ready platform for TEDxGUC events
 Built with React and deployed on Vercel
 Focus on UI structure, performance, and maintainability
 
-HR Management System
+*HR Management System*
 Full-stack HR platform (Node.js, Express, SQL, React)
 
 Built REST APIs, authentication, and core HR workflows
 Designed database structure for employees and attendance systems
 Focused on backend structure and system reliability
 
-Internship Tracker
+*Internship Tracker*
 
 Lightweight system to manage internship applications end-to-end
 Built for clarity, usability, and workflow tracking
